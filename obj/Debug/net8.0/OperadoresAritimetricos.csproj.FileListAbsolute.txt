@@ -1,0 +1,14 @@
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\bin\Debug\net8.0\OperadoresAritimetricos.exe
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\bin\Debug\net8.0\OperadoresAritimetricos.deps.json
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\bin\Debug\net8.0\OperadoresAritimetricos.runtimeconfig.json
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\bin\Debug\net8.0\OperadoresAritimetricos.dll
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\bin\Debug\net8.0\OperadoresAritimetricos.pdb
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\OperadoresAritimetricos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\OperadoresAritimetricos.AssemblyInfoInputs.cache
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\OperadoresAritimetricos.AssemblyInfo.cs
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\OperadoresAritimetricos.csproj.CoreCompileInputs.cache
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\OperadoresAritimetricos.dll
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\refint\OperadoresAritimetricos.dll
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\OperadoresAritimetricos.pdb
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\OperadoresAritimetricos.genruntimeconfig.cache
+C:\Users\yrtel\Desktop\Desvendando C#\OperadoresAritimetricos\obj\Debug\net8.0\ref\OperadoresAritimetricos.dll
